@@ -1,0 +1,32 @@
+{
+  "courses": [
+    {
+      "id": "c1",
+      "courseName": "Learn React.Js"
+    },
+    {
+      "id": "c2",
+      "courseName": "Learn Angular.Js"
+    },
+    {
+      "id": "c3",
+      "courseName": "Learn Vue.Js"
+    },
+    {
+      "id": "c4",
+      "courseName": "Learn Spring Boot"
+    },
+    {
+      "id": "c5",
+      "courseName": "Learn Power BI"
+    },
+    {
+      "id": "c6",
+      "courseName": "Learn AWS"
+    },
+    {
+      "id": "c7",
+      "courseName": "Learn Azure"
+    }
+  ]
+}
